@@ -1,0 +1,8 @@
+{
+  "name": "js-questions",
+  "version": "0.0.1",
+  "description": "Javascript practice exercises for absolute beginners",
+  "main": "index.js",
+  "author": "Anthony MinGu Lee",
+  "license": "MIT"
+}
